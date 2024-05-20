@@ -4,7 +4,7 @@
   "description": "No Code Platform Backend API for 3D Designs",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node init && nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anupamsingh12",
